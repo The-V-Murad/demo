@@ -15,6 +15,8 @@ public class JavaApplication37 {
      */
     public static void main(String[] args) {
         System.out.println("Hello boss");
+        System.out.println("Hello boss1");
+        System.out.println("Hello boss2");
     }
     
 }
